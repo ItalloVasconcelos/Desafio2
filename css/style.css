@@ -2,75 +2,92 @@
 @import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@700&display=swap');
 
 
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;    
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Bebas Neue', cursive;
+}
 body {
- margin: 0 auto;
- font-family: 'Bebas Neue', cursive;
- background: linear-gradient(90deg, #6cbedf, #143b50);
- max-height: 300px;
- max-width: 400px;
- 
+    overflow: hidden;
+    background: linear-gradient(90deg, #6cbedf, #143b50);
 }
- 
+
 .figurinha {
-   display: flex;
-   flex-direction: column;
-   align-items:center; 
-   margin: 10px;
-}
+    display: flex;
+    flex-direction: column;
+    align-items:center; 
+    margin: 10px;
+ }
 
 .description { 
-    border: 3px outset  #350cebc2;
-    border-radius: 30px;
-    font-size: 16px;
-    padding: 5px;
-    margin-top: 5px;
-    text-decoration: none;
-    color: #00008B;
-    background-color: #87CEFF;
-}
-.imagem {
-border-radius: 100px 100px 100px 100px ; 
-border: 3px outset #350cebc2; 
-width: 150px;
-height: 155px; 
-}
+        border: 3px outset  #350cebc2;
+        border-radius: 30px;
+        font-size: 18px;
+        padding: 8px;
+        margin: 8px;
+        text-decoration: none;
+        color: #0c0ce9;
+        background-color: #87CEFF;
+        width: 200px;
+        text-align: center;
 
-
-.listaLinksInternos {
-display:flex;
-flex-direction: column;
-}
-
-.linkInterno { 
-    text-align: center;
-    border:4px outset #350cebc2;
-    padding:0 60px;
-    border-radius: 15px;
-    margin: 3px auto;
-    font-size: 20px;
-    line-height: 35px;
-    text-decoration: none;
-    background-color: #87CEFF;
-    color:#00008B;
-    width: 120px;
+    }
+    .imagem {
+    border-radius: 100px 100px 100px 100px ; 
+    border: 3px outset #350cebc2; 
+    width: 200px;
+    height: 200px; 
+    }
     
-}
-
-.listaLinksExternos {
+    
+    .listaLinksInternos {
     display:flex;
-    flex-direction:row;
-    margin: 15px auto;
-    width: 280px;
-    padding: 4px;        
-}
-
-.linksExterno {
-    text-align:center;
-    padding: 1px 12px;
-    margin: 0 12px;
-    font-size: 10px;
-}
-
-@media screen and (min-width:768px){
+    flex-direction: column;
     
-}
+    }
+    
+    .linkInterno { 
+        text-align: center;
+        border:4px outset #350cebc2;
+        padding:0 ;
+        border-radius: 15px;
+        margin: 3px auto;
+        font-size: 20px;
+        line-height: 35px;
+        text-decoration: none;
+        background-color: #87CEFF;
+        color:#00008B;
+        width: 200px;
+        
+    }
+    
+    .listaLinksExternos {
+        display:flex;
+        flex-direction:row;
+        margin: 15px auto;
+        width: 280px;
+        padding: 4px;
+        
+    }
+    
+    .linksExterno {
+        text-align: center;
+        padding: 12px 12px;
+        margin: 0 12px;
+        font-size: 10px;
+    }
+
+    @media (max-width: 768px) {
+
+
+
+
+    }
