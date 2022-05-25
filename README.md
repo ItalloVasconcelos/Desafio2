@@ -9,14 +9,14 @@ Social Tree - Finalizado! ✅✅
 <h3>
 Tecnnologias utilizadas: 
   <br>
-  - [HTML] (https://www.w3schools.com/html/default.asp/)
+  - <a href="https://www.w3schools.com/html/default.asp/" target="_blank">HTML</a>
   <br>
-  - [CSS] (https://www.w3schools.com/css/default.asp/)
+  <a href="https://www.w3schools.com/css/default.asp" target="_blank">CSS</a>
 </h3>
 
 <h3>Autor</h3>
 ---
-<a href="https://www.linkedin.com/in/itallo-vasconcelos-7441b4158/">
+<a href="https://www.linkedin.com/in/itallo-vasconcelos-7441b4158/" target="_blank">
 </br>
 <sub><b>Itallo Vasconcelos</b></sub>
 </a>
@@ -24,4 +24,4 @@ Tecnnologias utilizadas:
 Feito por Itallo Vasconcelos 👋🏽 Entre em contato!
 <br>
 ---
-<h3>Link para ver o projeto: https://itallovasconcelos.github.io/Desafio2/</h3>
+<h3><a href="https://itallovasconcelos.github.io/Desafio2/" target="_blank">Clique aqui para ver o projeto</a></h3>
