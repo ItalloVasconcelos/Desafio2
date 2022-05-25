@@ -15,8 +15,7 @@ Tecnnologias utilizadas:
 </h5>
 
 <h3>Autor</h3>
-<br>
-Feito por <a href="https://www.linkedin.com/in/itallo-vasconcelos-7441b4158/" target="_blank"></a> 👋🏽 Entre em contato!
+Feito por <a href="https://www.linkedin.com/in/itallo-vasconcelos-7441b4158/" target="_blank">Itallo Vasconcelos</a> 👋🏽 Entre em contato!
 <br>
 ---
 <h3><a href="https://itallovasconcelos.github.io/Desafio2/" target="_blank">Clique aqui para ver o projeto</a></h3>
