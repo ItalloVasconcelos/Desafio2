@@ -1,5 +1,5 @@
 <h1 align="center">Social Tree - Itallo Vasconcelos </h1>
-##Descrição do projeto:
+<h2>Descrição do projeto:</h2><br>
 Desafio feito duranto o curso da Rocketseat, onde era necessario fazer uma link tree para redes sociais, no desafio era bem simples, porém fiz uma alteração para ficar mais pessoal.
 
 <h4 align="center">
@@ -18,5 +18,6 @@ Tecnnologias utilizadas:
 </br>
 <sub><b>Itallo Vasconcelos</b></sub>
 </a>
+<br>
 Feito por Itallo Vasconcelos 👋🏽 Entre em contato!
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/itallo-vasconcelos-7441b4158/)](https://www.linkedin.com/in/itallo-vasconcelos-7441b4158/)
