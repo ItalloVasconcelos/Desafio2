@@ -6,13 +6,13 @@ Desafio feito duranto o curso da Rocketseat, onde era necessario fazer uma link 
 Social Tree - Finalizado! ✅✅
 </h4>
 
-<h3>
+<h5>
 Tecnnologias utilizadas: 
   <br>
-  <a href="https://www.w3schools.com/html/default.asp/" target="_blank">HTML</a>
+  <a href="https://www.w3schools.com/html/default.asp" target="_blank">HTML</a>
   <br>
   <a href="https://www.w3schools.com/css/default.asp" target="_blank">CSS</a>
-</h3>
+</h5>
 
 <h3>Autor</h3>
 ---
