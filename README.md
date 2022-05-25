@@ -1,5 +1,5 @@
 <h1 align="center">Social Tree - Itallo Vasconcelos </h1>
-## Descrição do projeto:
+##Descrição do projeto:
 Desafio feito duranto o curso da Rocketseat, onde era necessario fazer uma link tree para redes sociais, no desafio era bem simples, porém fiz uma alteração para ficar mais pessoal.
 
 <h4 align="center">
