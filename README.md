@@ -9,7 +9,7 @@ Social Tree - Finalizado! ✅✅
 <h3>
 Tecnnologias utilizadas: 
   <br>
-  - <a href="https://www.w3schools.com/html/default.asp/" target="_blank">HTML</a>
+  <a href="https://www.w3schools.com/html/default.asp/" target="_blank">HTML</a>
   <br>
   <a href="https://www.w3schools.com/css/default.asp" target="_blank">CSS</a>
 </h3>
